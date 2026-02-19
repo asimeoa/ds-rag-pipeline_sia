@@ -58,6 +58,7 @@ GROQ_API_KEY=<your groq api key>
     source .venv/bin/activate
     pip install --upgrade pip
     pip install -r requirements.txt
+    pip install chromadb
     ```
 ### **`WindowsOS`** type the following commands :
 
@@ -71,6 +72,7 @@ GROQ_API_KEY=<your groq api key>
     .venv\Scripts\Activate.ps1
     python -m pip install --upgrade pip
     pip install -r requirements.txt
+    pip install chromadb
     ```
 
     For `Git-Bash` CLI :
@@ -80,6 +82,7 @@ GROQ_API_KEY=<your groq api key>
     source .venv/Scripts/activate
     python -m pip install --upgrade pip
     pip install -r requirements.txt
+    pip install chromadb
     ```
 
 ---
